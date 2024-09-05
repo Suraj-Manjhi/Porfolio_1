@@ -10,9 +10,10 @@ import ScrollToTop from "./components/helper/scroll-to-top";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio of Abu Said - Software Developer",
+ export const metadata = {
+  title: "Portfolio of Suraj Manjhi - Data Analytics",
   description:
-    "This is the portfolio of Abu Said. I am a full stack developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
+    "I am Suraj Manjhi, a final-year B.Tech student majoring in Information Technology Sciences at the Institute of Technology & Management, Gwalior. With a solid foundation in data analysis, Python programming, and SQL, I have developed a keen interest in Data Science and Machine Learning. My academic projects and internships have provided me with hands-on experience in analyzing data, developing predictive models, and leveraging statistical techniques to solve real-world problems. I am eager to apply my skills in a dynamic environment and contribute to data-driven decision-making processes. I am actively seeking opportunities in Data Science, where I can continue to grow and make an impact.",
 };
 
 export default function RootLayout({ children }) {
